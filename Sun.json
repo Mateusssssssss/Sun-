@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": ";Mateussss",
+        "version": "1.0.0",
+        "name": "Sun?"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/893665648591396914\/913973042089181214\/eb5c4ad5e6e081c6b56faba791d24b92.jpg",
+        "overlay_alpha": 109,
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -11990094,
+        "background": 1551494,
+        "active_channel": 1879977656,
+        "background_secondary": 1275068416,
+        "mention_highlight": 689899212
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -882176572,
+        "uikit_btn_bg_color_selector_green": -16425033
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
